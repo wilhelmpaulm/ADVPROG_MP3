@@ -1,0 +1,9 @@
+Entries:2
+Name:lastName,firstName
+Mobile:55555555555
+Landline:55555555555
+Email:sample@sample.com
+Name:Last Name, First Name
+Mobile:12345678910
+Landline:12345678910
+Email:username@domain
